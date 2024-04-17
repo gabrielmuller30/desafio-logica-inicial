@@ -29,4 +29,6 @@ if (xp < 1000){
     nivel = "radiante"; 
 }
 
+// poderia usar o else também como última decisão
+
 console.log("O herói de nome " + nome + " está no nível " + nivel);
